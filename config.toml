@@ -1,0 +1,25 @@
+baseURL = 'https://lewisgreen.co.uk/'
+languageCode = 'en-gb'
+title = 'Tech Tips - SRE, Developer, DevOps, Infrastructure'
+
+theme = "nightfall"
+
+[menu]
+  [[menu.header]]
+    name = "blog"
+    weight = 0
+    url = "blog"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
+
+[params]
+author = "Lewis Green"
+user = "lewis"
+hostname = "lewisgreen.co.uk"
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/lewis-green"
