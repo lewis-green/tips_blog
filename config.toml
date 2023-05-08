@@ -1,4 +1,4 @@
-baseURL = 'https://lewisgreen.co.uk/'
+baseURL = 'https://tips.lewisgreen.co.uk/'
 languageCode = 'en-gb'
 title = 'Tech Tips - SRE, Developer, DevOps, Infrastructure'
 
